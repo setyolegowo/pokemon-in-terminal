@@ -1,0 +1,22 @@
+Halo. Sangat senang bertemu denganmu.
+Selamat datang di dunia PokeRanch.
+Nama saya Virtue.
+Oh ya, saya biasanya disebut Poke Profesor.
+Sebelum bergerak lebih jauh, apakah ini pertualangan pertama kamu?
+Jika kamu membutuhkan saran, ketikkan saja "help" pada terminal.
+Di dunia ini terdapat makhluk hidup yang terdapat habitatnya yang disebut Poke.
+Orang-orang disini hidup bersama dengan damai dengan Poke.
+Saat orang-orang bermain bersama-sama, dan di lain waktu kita bekerja dengannya.
+Beberapa orang menggunakan Poke untuk bertarung dan membentuk ikatan yang kuat dengannya.
+Apa yang saya lakukan?
+Saya terus menerus meneliti Poke selama hidup saya.
+Sekarang, kenapa kamu tidak menceritakan sedikit tentang dirimu?
+Oh tentu saja. Nama kamu <player_name> ya.
+Wah, nama yang sangaaaaat bagus.
+Nah, semua orang di dunia ini tahu bahwa
+terdapat seorang trainer Poke yang sangat kuat.
+Kamu dapat mencari tahu siapa dia setelah kamu merasa kuat untuk melawan dia di stadium.
+Dalam perjalananmu, kamu akan bertemu Poke yang tak terhitung jumlahnya.
+Saya percaya bahwa kamu akan membantu saya
+untuk mengumpulkan semua pokemon yang ada.
+Baiklah, sekarang waktunya kamu berpetualang.;

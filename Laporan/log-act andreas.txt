@@ -1,0 +1,6 @@
+14 – 15 Maret 2013	Membuat deklarasi dan implementasi kelas Item
+16 - 18 Maret 2013	Membuat deklarasi dan implementasi kelas List Of Item
+20 Maret 2013		Memperbaiki kelas List Of Item dengan memakai STL List
+22 Maret 2013		Membuat kelas List Item Of Player ( deklarasi dan implementasi  )
+
+

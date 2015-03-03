@@ -1,0 +1,29 @@
+Setyo [PokeRanch] 50%
+Kendala : - Menunggu kelas lain lulus compile
+- Mencoba untuk melihat isi list dahulu sebelum dimasukkan kedalam permainan.
+- Kebingunan:
+--> Apakah load itu bisa menggunakan player lain (berarti mengganti player) atau mengambil data player yang sedang aktif bermain?
+--> Haruskah banyak step yang sudah dilakukan harus disimpan dalam data player? Jika ya, menambah parameter baru di player, jika tidak maka save akan dilakukan sekaligus perbaikan HP dan status monster party.
+- Sedang menggabungkan area dengan container utama
+--> Outer Area (usable)
+--> City (Not yet usable)
+
+Fawwaz [Area]
+Kendala: Dibentuk setelah player dapat dibentuk ke gabungan
+- Bisa meloncati tembok??? Maksudnya jika step dilakukan lebih dari 1, maka dia dapat meloncati daerah-daerah yang seharusnya tidak bisa dilewati. Kalau begini, player adalah jin.
+- Belum ada trigger saat melewati monster. (Ada EOF kalo di mesin kata). Digunakan untuk memulai battledengan monster random.
+- Belum ada prosedur mengganti posisi pemain dalam peta secara direct (misalnya mengganti posisi dari x,x menjadi y,y atau posisi 200 menjadi posisi 100 dalam *area). Digunakan saat teleport.
+
+Rizky [Player]
+Kendala: - Belum ada cara membaca file dari suatu player yang berbeda.
+- Konsep Setyo dengan Rizky berbeda.
+- Belum ada fungsi menampilkan data player.
+
+Asep [Monster]
+Kendala:
+
+Lubis [Skill]
+Kendala:
+
+Andreas [Item]
+Kendala: - Belum ada fungsi memperlihatkan barang yang dijual dalam Poke Store (maksudnya dalam format yang lebih bagus == rapih)

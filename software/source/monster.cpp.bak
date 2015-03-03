@@ -1,0 +1,112 @@
+/* ************************************************************************** */
+/*                                  POKERANCH                                 */
+/* ************************************************************************** */
+
+/*
+ * Nama / NIM           : Lubis Sucipto / 13511025
+ *                        Muhammad Rizky W / 13511037
+ *                        Andreas Dwi Nugroho / 13511051
+ *                        Setyo Legowo / 13511071
+ *                        Fawwaz Muhammad / 13511083
+ *                        Asep Saepudin / 13511093
+ * Nama File            : playermonster.h
+ * Bahasa               : C++
+ * Compiler             : g++
+ * Tanggal Diperbaharui : Selasa, 5 Maret 2013
+ * Deskripsi            : 
+ * - 
+ */
+ 
+#include "monster.h"
+
+//Default constructor belum dibuat
+Monster::Monster();
+
+//Constructor dengan Parameter
+Monster(unsigned int _MonsterNumber, char * _Spesies, ElemenType _Elemen0, ElemenType _Elemen1, unsigned int _HP, unsigned int _Attack, unsigned int _Defense, unsigned int _Speed, unsigned char _DefaultLevel, unsigned char * _DefaultSkills, unsigned char _IsCombined, unsigned char _NextEvolutionLevel, unsigned int _NextEvoNo): MaxSpesiesLength(60) {
+        Age = 0;
+        MonsterNumber = _MonsterNumber;
+        Elemen0 = _Elemen0;
+        Elemen1 = _Elemen1;
+        HP = _HP;
+        Attack = _Attack;
+        Defense = _Defense;
+        Speed = _Speed;
+        DefaultLevel = _DefaultLevel;        
+        IsCombined = _IsCombined;
+        NextEvolutionLevel = _NextEvolutionLevel;
+        NextEvoNo = _NextEvoNo;
+		
+		for (int i=0;i<MaxSpesiesLength,i++) {
+			Spesies[i] = _Spesies[i];
+		}
+		
+		for (int i=0;i<MaxMove,i++) {
+			DefaultSkills[i] = _DefaultSkills[i];
+		}		
+}
+
+//Copy Constructor
+Monster::Monster(const Monster& M) {
+    this->Age = M.Age;
+    this->MonsterNumber = MonsterNumber;       
+    this->Elemen0 = M.Elemen0;
+    this->Elemen1 = M.Elemen1;
+    this->HP = M.HP;
+    this->Attack = M.Attack;
+    this->Defense = M.Defense;
+    this->Speed = M.Speed;
+    this->DefaultLevel = M.DefaultLevel;
+    this->IsCombined = M.IsCombined;
+    this->NextEvolutionLevel = M.NextEvolutionLevel;
+    this->NextEvoNo = M.NextEvoNo;
+	
+	this->MaxSpesiesLength = M.MaxSpesiesLength;
+	Spesies = new char[MaxSpesiesLength];
+	for (int i=0;i<=MaxSpesiesLength;i++) {
+		this->Spesies[i] = M.Spesies[i];
+	}
+	
+	this->MaxMove = M.MaxMove;
+	DefaultSkills = new unsigned char[MaxMove]
+	for (int i=0;i<=MaxMove;i++) {
+		this->DefaultSkills[i] = M.DefaultSkills[i];
+	}
+	
+return *this;
+}
+
+
+//Operator Assignment
+Monster& Monster::operator= (const Monster& M) {
+	this->MaxSpesiesLength = M.MaxSpesiesLength;
+    this->MaxMove = M.MaxMove;
+    this->Age = M.Age;
+    this->MonsterNumber = MonsterNumber;       
+    this->Elemen0 = M.Elemen0;
+    this->Elemen1 = M.Elemen1;
+    this->HP = M.HP;
+    this->Attack = M.Attack;
+    this->Defense = M.Defense;
+    this->Speed = M.Speed;
+    this->DefaultLevel = M.DefaultLevel;
+    this->IsCombined = M.IsCombined;
+    this->NextEvolutionLevel = M.NextEvolutionLevel;
+    this->NextEvoNo = M.NextEvoNo;
+	
+	for (int i=0;i<=MaxSpesiesLength;i++) {
+		this->Spesies[i] = M.Spesies[i];
+	}
+		
+	for (int i=0;i<=MaxMove;i++) {
+		this->DefaultSkills[i] = M.DefaultSkills[i];
+	}
+	
+return *this;
+}
+
+//Destructor
+Monster::~Monster() {
+	delete [] this->Spesies;
+	delete [] this->DefaultSkills;
+}

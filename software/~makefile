@@ -1,0 +1,71 @@
+all: PokeRanch
+
+PokeRanch: area.o city.o combinatorium.o home.o item.o itemtype.o listofitem.o listofmonster.o listofplayer.o listofskill.o monster.o outerarea.o player.o playermonster.o point.o pokeranch.o skill.o stadium.o store.o main.o 
+    gcc -o executable/PokeRanch source/*.o
+    #gcc -o executable/PokeRanch source/area.o source/city.o source/combinatorium.o source/home.o source/item.o source/itemtype.o source/listofitem.o source/listofmonster.o source/listofplayer.o source/listofskill.o source/monster.o source/outerarea.o source/player.o source/playermonster.o source/point.o source/pokeranch.o source/skill.o source/stadium.o source/store.o source/main.o
+    
+area.o: area.cpp
+   gcc -c source/area.cpp
+    
+city.o : city.c
+   gcc -c source/city.cpp
+
+combinatorium.o: combinatorium.cpp
+    gcc -c source/combinatorium.cpp
+
+home.o: home.cpp
+    gcc -c source/home.cpp
+
+item.o: item.cpp
+    gcc -c source/item.cpp
+    
+itemtype.o: itemtype.cpp
+    gcc -c source/itemtype.cpp
+
+listofitem.o: listofitem.cpp
+    gcc -c source/listofitem.cpp
+
+listofmonster.o: listofmonster.cpp
+    gcc -c source/listofmonster.cpp
+
+listofplayer.o: listofplayer.cpp
+    gcc -c source/listofplayer.cpp
+
+listofskill.o: listofskill.cpp
+    gcc -c source/listofskill.cpp
+
+main.o: main.cpp
+    gcc -c source/main.cpp
+
+monster.o: monster.cpp
+    gcc -c source/monster.cpp
+
+outerarea.o: outerarea.cpp
+    gcc -c source/outerarea.cpp
+
+player.o: player.cpp
+    gcc -c source/player.cpp
+
+playermonster.o: playermonster.cpp
+    gcc -c source/playermonster.cpp
+
+point.o: point.cpp
+    gcc -c source/playermonster.cpp
+
+pokeranch.o: pokeranch.cpp
+    gcc -c source/pokeranch.cpp
+
+skill.o: skill.cpp
+    gcc -c source/skill.cpp
+    
+stadium.o: stadium.cpp
+    gcc -c source/stadium.cpp
+    
+store.o: store.cpp
+    gcc -c source/store.cpp
+
+clear:
+    rm -rf source/*.o
+
+run:
+    ./executable/test003

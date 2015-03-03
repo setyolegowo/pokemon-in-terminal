@@ -1,0 +1,6 @@
+8 Maret 2013		Membuat deklarasi kelas Skill dan ListOfSkill
+11 - 15 Maret 2013	Membuat implementasi kelas Skill dan ListOfSkill.
+18 - 22 Maret 2013	Mengimplementasikan semua kelas Skill dan ListOfSkill dengan Kelas-kelas lain
+22 - 25 Maret 2013	Membantu penyelesaian program utama dan perapihan tampilan
+
+

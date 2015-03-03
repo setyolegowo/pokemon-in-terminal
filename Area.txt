@@ -1,0 +1,64 @@
+Class AREA
+Class area memiliki keterkaitan dengan dua kelas,berikut penjelasan dari kelas-kelas yang berkaitan
+1. Class Outer Area
+Class outer area menggambarkan dunia luar selain kota. Kami mengasumsikan bahwa outer area dapat dianggap seperti bangunan bertingkat. setiap tingkatan mengandung monster-monster yang bervariasi levelnya bergantung dari "lantai" levelnya. misal untuk lantai 1, monster yang ada disana hanya ada monster dengan level 1-5, lalu di lantai 2, monster yang ada hanya monster dengan level 5-10, dan seterusnya. Kami menganggap untuk masuk ke "lantai" yang lebih tinggi kita harus masuk dari "lantai" yang lebih rendah, begitu juga untuk keluar dari outer area. Misal kita ingin masuk ke lantai 3, berarti kita harus masuk ke lantai 1, lalu lantai 2 baru lantai 3. sementara untuk kembali ke kota, kita harus teleport dari lantai 3, lalu ke lantai 2, ke lantai 1 baru ke kota.
+Untuk mendukung asumsi-asumsi tersebut kami membuat beberapa atribut/properties/data member untuk class outer area:
+-Floor Level MAx : "konstanta"  yang dapat di configurable menunjukan level maksimum "lantai" yang ada di game
+-Monter Level Min : Menunjukan level monster terendah yang mungkin ditemukan di "lantai" saat ini default: 10n+x; n menunjukan lantai saat ini, x level minimal configurable.
+-Max Monster Appear: Jumlah maksimum monster yang muncul di area, default 10.
+-CurrentFL: lokasi lantai saat ini yang dipijaki oleh pemain
+-CrMonsterPoint: Koordinat dirandom untuk lokasi monster-monster yang bisa ditemukan di area saat ini
+-Teleport Position Before: Koordinat tempat untuk melakukan teleport untuk ke "lantai" sebelumnya.
+-Teleport Position Next : Koordinat tempat untuk melakukan teleport untuk ke "lantai" setelahnya
+class ini memiliki beberapa function member/method yaitu:
+-Battle() memanggil function untuk masuk ke mode battle screen
+-Random unstepable: mengacak koordinat-koordinat yang unstapable
+-Random monster : mengacak monster-monster yang muncul.
+-Print map: mencetak area ke layar.
+2. Class City
+kami mengasumsikan kota memiliki ukurang 39x9 dot sesuai dengan spek di dokumen.
+Sebagaimana City pada umumnya, City memiliki beberapa properties:
+-Max NameLEngth : konstanta configurable panjang nama maksimum
+-NBangunan : konstanta configurable jumlah bangunan yang ada di kota
+-City name: Nama kota 
+-Teleport position : Lokasi dalam koordinat untuk melakukan teleport entah itu ke outer area atau ke tempat lain
+-Buildings : array of Building, yang merepresentaiskan bangunan yang ada di kota ini.
+sebagaimana class outer area, class ini memiiliki fungsi print untuk mencetak kondisi area saat ini (koordinat pemain, rumah dll) dan fixunstapable area untuk memberi array koordinat point fix yang unstappable di City.
+Class city akan digunakan oleh beberapa kelas lainya 
+	a)Home : 
+		Properties:
+		-Teleport position: lokasi koordinat teleport 
+		Function member:
+		-Print images : Menampilkan gambar rumah ke layar
+		-Sleep : memanggil fungsi sleep agar pemain dapat "tidur" dan mengganti waktu siang jadi malam/ malam jadi siang
+		-Save : Melakukan save game
+		-Load : Melakukan load game
+		-New : MElakukan new game
+	b)Combinatorium:
+		Properties:
+		-Teleport position: lokasi koordinat teleport 
+		Function member:
+		- Combine : untuk melakukan combine antar monster
+	c)Store:
+		Properties:
+		-Teleport position: lokasi koordinat teleport 
+		Function member:
+		-Printimage menampilkan gambar toko ke layar
+		-Buy :membeli item tertentu
+		-Sell : menjual item tertentu
+	d)Stadium:
+		Properties:
+		-Teleport position: lokasi koordinat teleport 
+		Function member:
+		-Battle : untuk melakukan battle antar musuh,pada battle di stadium, user diharuskan bertanding dengan 3 monster berturut-turut bukan seperti di outer area yang hanya 1 kali
+		-Random Monster : untuk merandom monster yang muncul di stadium dan unstapable point
+
+
+Adapun class Area sendiri digunakan oleh class city dan outer area sehingga kedua kelas ini meng-inherit dari class area. class area sendiri terdiri dari beberapa properties yaitu :
+-Max unstapable point : jumlah maksimum point yang unstapable dalam map saat ini
+-Width :lebar map default : 39
+-Height : tinggi map default : 9
+-Unstapable P: Koordinat-koordinat (Array) yang tidak bisa distep
+-Unstapable active ;Point-point yang stepable / active / boleh dipijak
+-Player position point: koordinat player dalam peta saat ini
+-Player position place : Lokasi player berada misal: di rumah/ di lcombinatorium / di stadium

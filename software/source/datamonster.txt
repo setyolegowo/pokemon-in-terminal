@@ -1,0 +1,1414 @@
+Nomor: 1
+Nama: Turtwig
+Elemen: 4
+Elemen2: 255
+HP: 55
+Attack: 68
+Defense 64
+Speed: 31
+Default Level: 5
+Default Skill: {52,0,0,0}
+IsCombine: 18
+NextEvoLevel: 0
+NextEvoNo: 1
+
+Nomor: 2
+Nama: Grotle
+Elemen: 4
+Elemen2: 255
+HP: 75
+Attack: 89
+Defense 85
+Speed: 36
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 32
+NextEvoLevel: 0
+NextEvoNo: 2
+
+Nomor: 3
+Nama: Torterra
+Elemen: 4
+Elemen2: 5
+HP: 95
+Attack: 109
+Defense 105
+Speed: 56
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 4
+Nama: Piplup
+Elemen: 3
+Elemen2: 255
+HP: 53
+Attack: 51
+Defense 53
+Speed: 40
+Default Level: 5
+Default Skill: {52,55,58,0}
+IsCombine: 16
+NextEvoLevel: 0
+NextEvoNo: 7
+
+Nomor: 5
+Nama: Prinplup
+Elemen: 3
+Elemen2: 255
+HP: 64
+Attack: 66
+Defense 68
+Speed: 50
+Default Level: 0
+Default Skill: {52,56,30,0}
+IsCombine: 36
+NextEvoLevel: 0
+NextEvoNo: 8
+
+Nomor: 6
+Nama: Empoleon
+Elemen: 3
+Elemen2: 255
+HP: 84
+Attack: 86
+Defense 88
+Speed: 60
+Default Level: 0
+Default Skill: {52,47,12,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 7
+Nama: Starly
+Elemen: 6
+Elemen2: 2
+HP: 40
+Attack: 55
+Defense 30
+Speed: 60
+Default Level: 7
+Default Skill: {52,33,53,0}
+IsCombine: 14
+NextEvoLevel: 0
+NextEvoNo: 10
+
+Nomor: 8
+Nama: Staravia
+Elemen: 6
+Elemen2: 2
+HP: 55
+Attack: 75
+Defense 50
+Speed: 80
+Default Level: 26
+Default Skill: {52,53,32,0}
+IsCombine: 34
+NextEvoLevel: 0
+NextEvoNo: 11
+
+Nomor: 9
+Nama: Staraptor
+Elemen: 6
+Elemen2: 2
+HP: 85
+Attack: 120
+Defense 70
+Speed: 100
+Default Level: 38
+Default Skill: {52,53,7,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 10
+Nama: Bidoof
+Elemen: 2
+Elemen2: 255
+HP: 59
+Attack: 45
+Defense 40
+Speed: 31
+Default Level: 6
+Default Skill: {52,0,0,0}
+IsCombine: 15
+NextEvoLevel: 0
+NextEvoNo: 13
+
+Nomor: 11
+Nama: Bibarel
+Elemen: 2
+Elemen2: 3
+HP: 79
+Attack: 85
+Defense 60
+Speed: 71
+Default Level: 24
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 12
+Nama: Shinx
+Elemen: 8
+Elemen2: 255
+HP: 45
+Attack: 65
+Defense 34
+Speed: 45
+Default Level: 12
+Default Skill: {52,36,0,0}
+IsCombine: 15
+NextEvoLevel: 0
+NextEvoNo: 15
+
+Nomor: 13
+Nama: Luxio
+Elemen: 8
+Elemen2: 255
+HP: 60
+Attack: 85
+Defense 49
+Speed: 60
+Default Level: 23
+Default Skill: {52,16,36,0}
+IsCombine: 30
+NextEvoLevel: 0
+NextEvoNo: 16
+
+Nomor: 14
+Nama: Luxray
+Elemen: 8
+Elemen2: 255
+HP: 80
+Attack: 120
+Defense 79
+Speed: 70
+Default Level: 34
+Default Skill: {52,16,34,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 15
+Nama: Abra
+Elemen: 0
+Elemen2: 255
+HP: 25
+Attack: 20
+Defense 15
+Speed: 90
+Default Level: 13
+Default Skill: {52,0,0,0}
+IsCombine: 16
+NextEvoLevel: 0
+NextEvoNo: 17
+
+Nomor: 16
+Nama: Kadabra
+Elemen: 0
+Elemen2: 255
+HP: 40
+Attack: 35
+Defense 30
+Speed: 105
+Default Level: 32
+Default Skill: {52,0,0,0}
+IsCombine: 67
+NextEvoLevel: 0
+NextEvoNo: 19
+
+Nomor: 17
+Nama: Alakazam
+Elemen: 0
+Elemen2: 255
+HP: 55
+Attack: 50
+Defense 45
+Speed: 120
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 18
+Nama: Magikarp
+Elemen: 3
+Elemen2: 255
+HP: 20
+Attack: 10
+Defense 55
+Speed: 80
+Default Level: 10
+Default Skill: {0,0,0,0}
+IsCombine: 20
+NextEvoLevel: 0
+NextEvoNo: 21
+
+Nomor: 19
+Nama: Gyarados
+Elemen: 3
+Elemen2: 6
+HP: 95
+Attack: 125
+Defense 79
+Speed: 81
+Default Level: 30
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 20
+Nama: Budew
+Elemen: 4
+Elemen2: 255
+HP: 40
+Attack: 30
+Defense 35
+Speed: 55
+Default Level: 9
+Default Skill: {52,0,0,0}
+IsCombine: 15
+NextEvoLevel: 0
+NextEvoNo: 23
+
+Nomor: 21
+Nama: Roselia
+Elemen: 4
+Elemen2: 255
+HP: 50
+Attack: 60
+Defense 45
+Speed: 65
+Default Level: 19
+Default Skill: {52,0,0,0}
+IsCombine: 30
+NextEvoLevel: 0
+NextEvoNo: 24
+
+Nomor: 22
+Nama: Roserade
+Elemen: 4
+Elemen2: 255
+HP: 60
+Attack: 70
+Defense 55
+Speed: 90
+Default Level: 32
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 23
+Nama: Zubat
+Elemen: 6
+Elemen2: 2
+HP: 40
+Attack: 45
+Defense 35
+Speed: 55
+Default Level: 14
+Default Skill: {52,0,0,0}
+IsCombine: 22
+NextEvoLevel: 0
+NextEvoNo: 26
+
+Nomor: 24
+Nama: Golbat
+Elemen: 6
+Elemen2: 2
+HP: 75
+Attack: 80
+Defense 70
+Speed: 90
+Default Level: 24
+Default Skill: {52,0,0,0}
+IsCombine: 44
+NextEvoLevel: 0
+NextEvoNo: 27
+
+Nomor: 25
+Nama: Crobat
+Elemen: 6
+Elemen2: 2
+HP: 85
+Attack: 90
+Defense 80
+Speed: 130
+Default Level: 37
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 26
+Nama: Geodude
+Elemen: 5
+Elemen2: 255
+HP: 40
+Attack: 80
+Defense 100
+Speed: 20
+Default Level: 14
+Default Skill: {52,0,0,0}
+IsCombine: 25
+NextEvoLevel: 0
+NextEvoNo: 29
+
+Nomor: 27
+Nama: Graveler
+Elemen: 5
+Elemen2: 255
+HP: 55
+Attack: 95
+Defense 115
+Speed: 35
+Default Level: 28
+Default Skill: {52,0,0,0}
+IsCombine: 33
+NextEvoLevel: 0
+NextEvoNo: 30
+
+Nomor: 28
+Nama: Golem
+Elemen: 5
+Elemen2: 255
+HP: 80
+Attack: 110
+Defense 130
+Speed: 45
+Default Level: 29
+Default Skill: {52,0,0,0}
+IsCombine: 40
+NextEvoLevel: 0
+NextEvoNo: 31
+
+Nomor: 29
+Nama: Onix
+Elemen: 5
+Elemen2: 255
+HP: 35
+Attack: 45
+Defense 160
+Speed: 70
+Default Level: 37
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 30
+Nama: Machop
+Elemen: 1
+Elemen2: 255
+HP: 70
+Attack: 80
+Defense 50
+Speed: 35
+Default Level: 15
+Default Skill: {52,9,0,0}
+IsCombine: 28
+NextEvoLevel: 0
+NextEvoNo: 33
+
+Nomor: 31
+Nama: Machoke
+Elemen: 1
+Elemen2: 255
+HP: 80
+Attack: 100
+Defense 70
+Speed: 45
+Default Level: 28
+Default Skill: {52,9,45,0}
+IsCombine: 44
+NextEvoLevel: 0
+NextEvoNo: 34
+
+Nomor: 32
+Nama: Machamp
+Elemen: 1
+Elemen2: 255
+HP: 90
+Attack: 130
+Defense 80
+Speed: 55
+Default Level: 44
+Default Skill: {52,9,26,29}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 33
+Nama: Psyduck
+Elemen: 3
+Elemen2: 255
+HP: 50
+Attack: 52
+Defense 48
+Speed: 55
+Default Level: 14
+Default Skill: {52,0,0,0}
+IsCombine: 33
+NextEvoLevel: 0
+NextEvoNo: 36
+
+Nomor: 34
+Nama: Golduck
+Elemen: 3
+Elemen2: 255
+HP: 80
+Attack: 82
+Defense 78
+Speed: 85
+Default Level: 36
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 35
+Nama: Buizel
+Elemen: 3
+Elemen2: 255
+HP: 55
+Attack: 65
+Defense 35
+Speed: 85
+Default Level: 20
+Default Skill: {52,0,0,0}
+IsCombine: 26
+NextEvoLevel: 0
+NextEvoNo: 38
+
+Nomor: 36
+Nama: Floatzel
+Elemen: 3
+Elemen2: 255
+HP: 85
+Attack: 105
+Defense 55
+Speed: 115
+Default Level: 46
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 37
+Nama: Cherubi
+Elemen: 4
+Elemen2: 255
+HP: 45
+Attack: 35
+Defense 45
+Speed: 35
+Default Level: 16
+Default Skill: {52,0,0,0}
+IsCombine: 25
+NextEvoLevel: 0
+NextEvoNo: 40
+
+Nomor: 38
+Nama: Cherrim
+Elemen: 4
+Elemen2: 255
+HP: 70
+Attack: 60
+Defense 70
+Speed: 85
+Default Level: 34
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 39
+Nama: Shellos
+Elemen: 3
+Elemen2: 255
+HP: 76
+Attack: 48
+Defense 48
+Speed: 34
+Default Level: 19
+Default Skill: {52,0,0,0}
+IsCombine: 30
+NextEvoLevel: 0
+NextEvoNo: 42
+
+Nomor: 40
+Nama: Gastrodon
+Elemen: 3
+Elemen2: 5
+HP: 111
+Attack: 83
+Defense 68
+Speed: 39
+Default Level: 34
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 41
+Nama: Heracross
+Elemen: 1
+Elemen2: 255
+HP: 80
+Attack: 125
+Defense 75
+Speed: 85
+Default Level: 29
+Default Skill: {52,9,37,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 42
+Nama: Aipom
+Elemen: 2
+Elemen2: 255
+HP: 55
+Attack: 70
+Defense 55
+Speed: 85
+Default Level: 19
+Default Skill: {52,0,0,0}
+IsCombine: 25
+NextEvoLevel: 0
+NextEvoNo: 45
+
+Nomor: 43
+Nama: Ambipom
+Elemen: 2
+Elemen2: 255
+HP: 75
+Attack: 100
+Defense 66
+Speed: 115
+Default Level: 30
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 44
+Nama: Buneary
+Elemen: 2
+Elemen2: 255
+HP: 55
+Attack: 66
+Defense 44
+Speed: 85
+Default Level: 20
+Default Skill: {52,0,0,0}
+IsCombine: 34
+NextEvoLevel: 0
+NextEvoNo: 49
+
+Nomor: 45
+Nama: Lopunny
+Elemen: 2
+Elemen2: 255
+HP: 65
+Attack: 76
+Defense 84
+Speed: 105
+Default Level: 40
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 46
+Nama: Glameow
+Elemen: 2
+Elemen2: 255
+HP: 49
+Attack: 55
+Defense 42
+Speed: 85
+Default Level: 23
+Default Skill: {52,0,0,0}
+IsCombine: 38
+NextEvoLevel: 0
+NextEvoNo: 51
+
+Nomor: 47
+Nama: Purugly
+Elemen: 2
+Elemen2: 255
+HP: 71
+Attack: 82
+Defense 64
+Speed: 112
+Default Level: 33
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 48
+Nama: Goldeen
+Elemen: 3
+Elemen2: 255
+HP: 45
+Attack: 67
+Defense 60
+Speed: 63
+Default Level: 17
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 53
+
+Nomor: 49
+Nama: Seaking
+Elemen: 3
+Elemen2: 255
+HP: 80
+Attack: 92
+Defense 65
+Speed: 68
+Default Level: 28
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 50
+Nama: Barboach
+Elemen: 3
+Elemen2: 5
+HP: 50
+Attack: 48
+Defense 43
+Speed: 60
+Default Level: 19
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 55
+
+Nomor: 51
+Nama: Whiscash
+Elemen: 3
+Elemen2: 5
+HP: 110
+Attack: 78
+Defense 73
+Speed: 60
+Default Level: 40
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 52
+Nama: Chingling
+Elemen: 0
+Elemen2: 255
+HP: 45
+Attack: 30
+Defense 50
+Speed: 45
+Default Level: 15
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 57
+
+Nomor: 53
+Nama: Chimecho
+Elemen: 0
+Elemen2: 255
+HP: 65
+Attack: 50
+Defense 70
+Speed: 65
+Default Level: 38
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 54
+Nama: Meditite
+Elemen: 1
+Elemen2: 0
+HP: 30
+Attack: 40
+Defense 55
+Speed: 60
+Default Level: 24
+Default Skill: {52,9,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 59
+
+Nomor: 55
+Nama: Medicham
+Elemen: 1
+Elemen2: 0
+HP: 60
+Attack: 60
+Defense 75
+Speed: 80
+Default Level: 43
+Default Skill: {52,9,45,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 56
+Nama: Bronzor
+Elemen: 0
+Elemen2: 255
+HP: 57
+Attack: 24
+Defense 86
+Speed: 23
+Default Level: 32
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 61
+
+Nomor: 57
+Nama: Bronzong
+Elemen: 0
+Elemen2: 255
+HP: 67
+Attack: 89
+Defense 116
+Speed: 33
+Default Level: 48
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 58
+Nama: Mime
+Elemen: 0
+Elemen2: 255
+HP: 67
+Attack: 89
+Defense 116
+Speed: 33
+Default Level: 48
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 59
+Nama: Mr.
+Elemen: 0
+Elemen2: 255
+HP: 67
+Attack: 89
+Defense 116
+Speed: 33
+Default Level: 48
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 60
+Nama: Happiny
+Elemen: 2
+Elemen2: 255
+HP: 100
+Attack: 5
+Defense 5
+Speed: 30
+Default Level: 20
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 67
+
+Nomor: 61
+Nama: Chansey
+Elemen: 2
+Elemen2: 255
+HP: 250
+Attack: 5
+Defense 5
+Speed: 50
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 68
+
+Nomor: 62
+Nama: Blissey
+Elemen: 2
+Elemen2: 255
+HP: 255
+Attack: 10
+Defense 10
+Speed: 55
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 63
+Nama: Cleffa
+Elemen: 2
+Elemen2: 255
+HP: 50
+Attack: 25
+Defense 28
+Speed: 15
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 70
+
+Nomor: 64
+Nama: Clefairy
+Elemen: 2
+Elemen2: 255
+HP: 70
+Attack: 45
+Defense 48
+Speed: 35
+Default Level: 31
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 71
+
+Nomor: 65
+Nama: Clefable
+Elemen: 2
+Elemen2: 255
+HP: 95
+Attack: 70
+Defense 73
+Speed: 60
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 66
+Nama: Pikachu
+Elemen: 8
+Elemen2: 255
+HP: 35
+Attack: 55
+Defense 30
+Speed: 90
+Default Level: 28
+Default Skill: {52,16,36,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 73
+
+Nomor: 67
+Nama: Raichu
+Elemen: 8
+Elemen2: 255
+HP: 60
+Attack: 90
+Defense 55
+Speed: 100
+Default Level: 0
+Default Skill: {52,16,34,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 68
+Nama: Hoothoot
+Elemen: 2
+Elemen2: 6
+HP: 60
+Attack: 30
+Defense 30
+Speed: 50
+Default Level: 24
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 75
+
+Nomor: 69
+Nama: Noctowl
+Elemen: 2
+Elemen2: 6
+HP: 100
+Attack: 50
+Defense 50
+Speed: 70
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 70
+Nama: Gible
+Elemen: 9
+Elemen2: 5
+HP: 58
+Attack: 70
+Defense 45
+Speed: 42
+Default Level: 27
+Default Skill: {41,11,38,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 77
+
+Nomor: 71
+Nama: Gabite
+Elemen: 9
+Elemen2: 5
+HP: 68
+Attack: 90
+Defense 65
+Speed: 82
+Default Level: 43
+Default Skill: {41,11,38,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 78
+
+Nomor: 72
+Nama: Garchomp
+Elemen: 9
+Elemen2: 5
+HP: 108
+Attack: 130
+Defense 95
+Speed: 102
+Default Level: 0
+Default Skill: {41,11,38,1}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 73
+Nama: Munchlax
+Elemen: 2
+Elemen2: 255
+HP: 135
+Attack: 85
+Defense 40
+Speed: 5
+Default Level: 30
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 80
+
+Nomor: 74
+Nama: Snorlax
+Elemen: 2
+Elemen2: 255
+HP: 160
+Attack: 110
+Defense 65
+Speed: 30
+Default Level: 50
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 75
+Nama: Wooper
+Elemen: 3
+Elemen2: 5
+HP: 55
+Attack: 45
+Defense 45
+Speed: 15
+Default Level: 0
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 82
+
+Nomor: 76
+Nama: Quagsire
+Elemen: 3
+Elemen2: 5
+HP: 95
+Attack: 85
+Defense 85
+Speed: 35
+Default Level: 48
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 77
+Nama: Hippopotas
+Elemen: 5
+Elemen2: 255
+HP: 68
+Attack: 72
+Defense 78
+Speed: 32
+Default Level: 33
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 84
+
+Nomor: 78
+Nama: Hippowdon
+Elemen: 5
+Elemen2: 255
+HP: 108
+Attack: 112
+Defense 118
+Speed: 47
+Default Level: 53
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 79
+Nama: Azurill
+Elemen: 2
+Elemen2: 255
+HP: 50
+Attack: 20
+Defense 40
+Speed: 20
+Default Level: 15
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 86
+
+Nomor: 80
+Nama: Marill
+Elemen: 3
+Elemen2: 255
+HP: 70
+Attack: 20
+Defense 50
+Speed: 40
+Default Level: 27
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 87
+
+Nomor: 81
+Nama: Azumarill
+Elemen: 3
+Elemen2: 255
+HP: 100
+Attack: 50
+Defense 80
+Speed: 50
+Default Level: 38
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 82
+Nama: Croagunk
+Elemen: 2
+Elemen2: 1
+HP: 48
+Attack: 61
+Defense 40
+Speed: 50
+Default Level: 26
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 89
+
+Nomor: 83
+Nama: Toxicroak
+Elemen: 2
+Elemen2: 1
+HP: 83
+Attack: 106
+Defense 65
+Speed: 85
+Default Level: 38
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 84
+Nama: Carnivine
+Elemen: 4
+Elemen2: 255
+HP: 74
+Attack: 100
+Defense 72
+Speed: 46
+Default Level: 44
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 85
+Nama: Tentacool
+Elemen: 3
+Elemen2: 255
+HP: 40
+Attack: 40
+Defense 35
+Speed: 70
+Default Level: 27
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 92
+
+Nomor: 86
+Nama: Tentacruel
+Elemen: 3
+Elemen2: 255
+HP: 80
+Attack: 70
+Defense 65
+Speed: 100
+Default Level: 47
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 87
+Nama: Snover
+Elemen: 7
+Elemen2: 4
+HP: 60
+Attack: 62
+Defense 50
+Speed: 40
+Default Level: 32
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 94
+
+Nomor: 88
+Nama: Abomasnow
+Elemen: 7
+Elemen2: 4
+HP: 90
+Attack: 92
+Defense 75
+Speed: 60
+Default Level: 41
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 89
+Nama: Dialga
+Elemen: 9
+Elemen2: 255
+HP: 100
+Attack: 120
+Defense 120
+Speed: 90
+Default Level: 60
+Default Skill: {41,1,18,2}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 90
+Nama: Palkia
+Elemen: 3
+Elemen2: 9
+HP: 90
+Attack: 120
+Defense 100
+Speed: 100
+Default Level: 60
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 91
+Nama: Manaphy
+Elemen: 3
+Elemen2: 255
+HP: 100
+Attack: 100
+Defense 100
+Speed: 100
+Default Level: 60
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 92
+Nama: Bagon
+Elemen: 9
+Elemen2: 255
+HP: 45
+Attack: 75
+Defense 60
+Speed: 50
+Default Level: 26
+Default Skill: {41,11,38,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 92
+
+Nomor: 93
+Nama: Shelgon
+Elemen: 9
+Elemen2: 255
+HP: 65
+Attack: 95
+Defense 100
+Speed: 50
+Default Level: 38
+Default Skill: {41,11,38,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 93
+
+Nomor: 94
+Nama: Salamance
+Elemen: 9
+Elemen2: 6
+HP: 95
+Attack: 135
+Defense 80
+Speed: 100
+Default Level: 0
+Default Skill: {41,11,38,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 95
+Nama: Electrike
+Elemen: 8
+Elemen2: 255
+HP: 40
+Attack: 45
+Defense 40
+Speed: 65
+Default Level: 13
+Default Skill: {52,53,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 95
+
+Nomor: 96
+Nama: Manectric
+Elemen: 8
+Elemen2: 255
+HP: 70
+Attack: 75
+Defense 60
+Speed: 105
+Default Level: 32
+Default Skill: {52,54,16,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 97
+Nama: Sneasel
+Elemen: 7
+Elemen2: 255
+HP: 55
+Attack: 95
+Defense 55
+Speed: 115
+Default Level: 20
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 97
+
+Nomor: 98
+Nama: Weavile
+Elemen: 7
+Elemen2: 255
+HP: 70
+Attack: 120
+Defense 65
+Speed: 125
+Default Level: 41
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+
+Nomor: 99
+Nama: Vanilite
+Elemen: 7
+Elemen2: 255
+HP: 36
+Attack: 50
+Defense 50
+Speed: 44
+Default Level: 24
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 99
+
+Nomor: 100
+Nama: Vanilllish
+Elemen: 7
+Elemen2: 255
+HP: 51
+Attack: 65
+Defense 65
+Speed: 59
+Default Level: 32
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 100
+
+Nomor: 101
+Nama: Vanilluxe
+Elemen: 7
+Elemen2: 255
+HP: 71
+Attack: 95
+Defense 85
+Speed: 79
+Default Level: 43
+Default Skill: {52,0,0,0}
+IsCombine: 0
+NextEvoLevel: 0
+NextEvoNo: 0
+

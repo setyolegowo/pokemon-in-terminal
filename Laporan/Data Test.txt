@@ -1,0 +1,14 @@
+Pada bagian item (kelas Item, kelas ListOfItem)
+Fitur yang dites pada kelas ini antara lain membaca dari file eksternal, memasukkan ke dalam list dan menampilkan sesuai isi dari file eksternal yang dibaca.
+skenario pengetesannya dilakukan dengan memanggil operasi pembacaan file eksternal sekaligus fungsi memasukkan isi dari file eksternal ke dalam list. Kemudian dilakukan pengecekan dengan menampilkan isi dari list tersebut. 
+
+Pada bagian monster (kelas Monster, kelas ListOfMonster, dan kelas PlayerMonster)
+Fitur yang dites adalah memasukkan objek monster ke list, membaca data monster dari file eksternal.
+Skenario yang digunakan adalah menampilkan hasil pembacaan ke layar dan mencetak monster yang telah dimasukkan ke list
+
+Pada bagian skill (kelas Skll, kelas ListOfSkill)
+Fitur yang dites adalah pembacaan data skill dari file eksternal dan mencetak hasil pembacaan (mencetak skill). Skenario yang digunakan adalah mencetak hasil pembacaan data skill ke layar.
+
+Pada bagian area, fitur yang dites adalah mencetak map ke layar, berpindah dari suatu tempat ke tempat lain, memindahkan objek ke suatu tempat, dan melakukan teleport. Skenario yang digunakan adalah membuat pseudo-map dan melakukan pergerakan objek di pseudo-map tersebut.
+
+Pada bagian pokeranch, fitur yang dites pada bagian ini mencakup semua kelas yang ada, mulai dari item, skill, monster, dan area. Skenario yang digunakan adalah dengan melakukan simulasi PokeRanch, mulai dari menangkap monster, membeli monster, melakukan battle dsb.

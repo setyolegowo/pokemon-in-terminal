@@ -1,0 +1,35 @@
+battle == 26 --
+    buy == 27 ---
+    change == 23
+    combine == 25 --
+    dismiss == 17
+        entry == 18
+        escape == 21
+            exit == 4
+        help == 3
+    item == 22
+        load == 2
+            list-item == 13
+        list-monster == 11
+            list-party == 12
+            list-sell == 29 ---
+move == 10
+    new == 1
+        next == 5
+        out == 8
+        save == 7
+        set == 15
+        sell == 28 ---
+        skill == 24
+    sleep == 6
+        status == 14
+        switch == 16
+        teleport == 9
+        
+.:: Bangunan ::.
+
+combinatorium == 1 -> 5
+gate == 2 -> 8
+home == 3 -> 4
+stadium == 4 -> 6
+shop == 5 -> 7

@@ -1,0 +1,1 @@
+1 rizky 0 Day 2000 100 200 {ultraball monsterball} {fire water ground} {fire water ground wind}

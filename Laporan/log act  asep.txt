@@ -1,0 +1,4 @@
+14-15 Maret 2013 -- Membuat kelas Monster
+16 Maret 2013 -- Membuat kelas ListOfMonster
+17 Maret & 22 Maret 2013 -- Membuat kelas PlayerMonster
+23-24 Maret 2013 -- Melengkapi kelas Monster, kelas ListOfMonster, dan PlayerMonster dengan atribut-atribut dan metode-metode yang belum ada agar bisa diintegrasikan dengan kelas-kelas lain.

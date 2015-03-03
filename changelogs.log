@@ -1,0 +1,32 @@
+[ROLES]
+Format Single Description:
+    [DD-03-2013_HH:MM] [User] [Description]
+Format More Description:
+    [DD-03-2013_HH:MM] [User]
+    {
+        [Description]
+    }
+User Registered:
+    Andreas, Asep, Fawwaz, Lubis, Rizky, Setyo
+Time Format:
+    DD : Day with range [00..31]
+    HH : Hour with range [00..23]
+    MM : Minute with range [00..59]
+Description Role:
+    - Description must be short but describe clearly.
+    
+[CHANGE LOGS]
+
+[14-03-2013_21:55] [Setyo]
+{
+    - Telah ditambahkan daftar skill, monster, dan item. Kemungkinan akan berubah lagi.
+    - Definisi semua *.h belum ada / lengkap. Mohon yang lainnya melengkapi bagian masing-masing.
+}
+[16-03-2013_05:38] [Setyo]
+{
+    - Main sudah final, tinggal kelas dalamnya (tentu saja pokeranch belum beres).
+    - Ada a.exe untuk melihat simulasi seperti apa permainannya.
+    - Dibuat namespace buatan, yaitu input_manager dan interface.
+    - Jika namespace buatan (input_manager, interface) terlalu banyak, akan dipindahkan ke file lain.
+    - Belum dikompilasi di linux.
+}
